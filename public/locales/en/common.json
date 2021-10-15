@@ -1,0 +1,16 @@
+{
+  "h1": "A simple example",
+  "change-locale": "Change locale",
+  "to-second-page": "To second page",
+  "error-with-status": "A {{statusCode}} error occurred on server",
+  "error-without-status": "An error occurred on the server",
+  "title": "Home | next-i18next",
+  "arrayJoin": [
+    "line1",
+    "line2",
+    "line3"
+  ],
+  "array": [
+    { "name": "abc" },
+    { "name": "xyz" }]
+}
